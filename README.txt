@@ -1,1 +1,2 @@
-You can't just open the index.html directly in the browser, unfortunately. Read https://github.com/SheepTester/htmlifier/wiki/Downloading-as-a-.zip
+ULTRA2LUE MARKED UP is the ULTRA2LUE port on SCRATCH. Now it's ported to
+GitHub for accsessible replayability.
